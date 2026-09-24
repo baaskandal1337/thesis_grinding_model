@@ -1,0 +1,20 @@
+fresh_solid_tph: 136.49
+
+screen3015_efficiency: 0.88
+screen3015_oversize_share_of_top_class: 0.10
+
+knelson_concentrate_solid_tph: 0.147
+knelson_fluidization_water_m3h: 80.0
+knelson_feed_solid_tph_target: 627.18
+
+sag_grinding_intensity: 0.35
+bm_grinding_intensity: 0.45
+
+cyclone_d50_mm: 0.10
+cyclone_sharpness: 2.5
+cyclone_bypass: 0.05
+
+solver:
+  max_iter: 200
+  tol_rel_solid: 0.0001
+  relax: 0.5
